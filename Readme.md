@@ -7,3 +7,9 @@
 3. Quadratic Equations  
 4. Number Basics  
 5. Palindrome Number  
+6. Reverse the Array .. DSA 450 sheet  
+7. Find Difference of Max and Min in Array .. DSA 450 sheet  
+8. Find kth max and min element in array .. DSA 450 sheet  
+9. Sort array of 0,1, and 2s .. DSA 450 sheet  
+
+
