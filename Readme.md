@@ -29,3 +29,9 @@
 
 1. Sieve of Eratosthenes  
 2. Computing Powers [ Recursive and Iterative ]  
+
+## Day 5 
+
+1. Move all negative elements to the end of the array 
+2. Union / Intersection of Unsorted / Sorted array 
+
