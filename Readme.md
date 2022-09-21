@@ -23,7 +23,7 @@
 
 1. Check For Prime  
 2. Prime Factors  
-3. All Divisors of a Number  
+3. All Divisors of a Number  K
 
 ## Day 4  
 
@@ -34,5 +34,13 @@
 
 1. Move all negative elements to the end of the array .. DSA 450 
 2. Union / Intersection of Unsorted / Sorted array .. DSA 450 
+
+## Day 6 
+ 
+1. Minimize_Height_Difference_k .. DSA 450  [ VVV IMP ] 
+2. Jump_Game_optimal .. DSA 450  [ VVV IMP ] 
+
+ 
+
 
 
