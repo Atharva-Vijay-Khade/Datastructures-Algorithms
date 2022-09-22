@@ -40,6 +40,16 @@
 1. Minimize_Height_Difference_k .. DSA 450  [ VVV IMP ] 
 2. Jump_Game_optimal .. DSA 450  [ VVV IMP ] 
 
+## Day 7 
+
+1. Find the Duplicate Number .. DSA 450 [ VVV IMP ] 
+2. Merge Without Extra Space .. DSA 450 [ VVV IMP ] 
+3. Kadane's Algorithm .. DSA 450 
+4. Merge Intervals .. DSA 450 
+5. Next Permutation .. DSA 450 
+
+
+
  
 
 
