@@ -47,6 +47,18 @@
 3. Kadane's Algorithm .. DSA 450 
 4. Merge Intervals .. DSA 450 
 5. Next Permutation .. DSA 450 
+ 
+## Day 8 
+ 
+1. Count Inversions 
+2. Best Time To Buy Sell Stock 
+3. Count Pairs With Given Sum 
+4. Union Of 3 arrays 
+5. Alternate Positive Negative 
+ 
+
+ 
+
 
 
 
