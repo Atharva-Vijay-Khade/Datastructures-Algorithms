@@ -50,11 +50,37 @@
  
 ## Day 8 
  
-1. Count Inversions 
-2. Best Time To Buy Sell Stock 
-3. Count Pairs With Given Sum 
-4. Union Of 3 arrays 
-5. Alternate Positive Negative 
+1. Count Inversions .. DSA 450 
+2. Best Time To Buy Sell Stock .. DSA 450 
+3. Count Pairs With Given Sum .. DSA 450 
+4. Union Of 3 arrays .. DSA 450 
+5. Alternate Positive Negative .. DSA 450 
+
+
+## Day 9 
+ 
+1. Subarray with given sum [ ALL variations ].. DSA 450 
+2. Longest consecutive subsequence [ Order doesn't matter ] .. DSA 450 
+3. Majority Element 1 .. DSA 450 
+ 
+ 
+## Day 10 
+ 
+1. Factorial of a large number [ store in vector ] .. DSA 450 
+2. Maximum Product Subarray .. DSA 450 
+3. Majority Element 2 .. DSA 450 
+
+## Day 11 
+
+1. Majority Element 3 .. DSA 450 
+2. Check if array is subset of another array .. DSA 450 
+3. Check if there exist triplet with given sum .. DSA 450 
+4. Trapping Rain Water problem .. DSA 450 
+ 
+
+ 
+
+
  
 
  
