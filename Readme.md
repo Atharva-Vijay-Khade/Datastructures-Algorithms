@@ -77,6 +77,15 @@
 3. Check if there exist triplet with given sum .. DSA 450 
 4. Trapping Rain Water problem .. DSA 450 
  
+## Day 12 
+
+1. Stock Buy Sell 1, 2, 3 .. DSA 450 
+ 
+## Day 13 
+
+1. Stock Buy Sell 3 Different implementation 
+2. Stock Buy Sell 4 
+ 
 
  
 
